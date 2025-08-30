@@ -1,0 +1,12 @@
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\bin\Debug\Alamares_Ptask.exe.config
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\bin\Debug\Alamares_Ptask.exe
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\bin\Debug\Alamares_Ptask.pdb
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.csproj.AssemblyReference.cache
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.Form1.resources
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.Properties.Resources.resources
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.csproj.GenerateResource.cache
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.csproj.CoreCompileInputs.cache
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.exe
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.pdb
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.exe.config
+C:\Users\cjala\source\repos\Alamares_Ptask\Alamares_Ptask\obj\Debug\Alamares_Ptask.RemoveForm.resources
