@@ -47,18 +47,19 @@
             this.buttonConfirm_Click.Name = "buttonConfirm_Click";
             this.buttonConfirm_Click.Size = new System.Drawing.Size(140, 53);
             this.buttonConfirm_Click.TabIndex = 1;
-            this.buttonConfirm_Click.Text = "button1";
+            this.buttonConfirm_Click.Text = "Remove";
             this.buttonConfirm_Click.UseVisualStyleBackColor = true;
             this.buttonConfirm_Click.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label1
+            // FirstName
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(296, 66);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(178, 16);
+            this.label1.Location = new System.Drawing.Point(214, 126);
+            this.label1.Name = "FirstName";
+            this.label1.Size = new System.Drawing.Size(351, 16);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Enter the full name to remove";
+            this.label1.Text = "Type the full name (First Middle Last) exactly as registered";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // RemoveForm
             // 
@@ -70,6 +71,7 @@
             this.Controls.Add(this.textBoxFullName);
             this.Name = "RemoveForm";
             this.Text = "RemoveForm";
+            this.Load += new System.EventHandler(this.RemoveForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
